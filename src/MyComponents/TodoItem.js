@@ -2,6 +2,7 @@ import React from 'react'
 
 const TodoItem = ({todo, onDelete}) => {
   return (
+    <>
     <div className='container'>
 
       <h4 >{todo.title}</h4>
@@ -9,6 +10,8 @@ const TodoItem = ({todo, onDelete}) => {
       <button className='btn btn-sm btn-danger' onClick={()=> {onDelete(todo)}}>Delete</button>
       
     </div>
+    <hr />
+    </>
   )
 }
 

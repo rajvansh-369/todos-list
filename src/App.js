@@ -54,7 +54,7 @@ function App() {
   }, [todos]);
   return (
     <>
-        {/* <BrowserRouter>
+      {/* <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="users/*" element={<Users />} />
@@ -64,9 +64,13 @@ function App() {
       <BrowserRouter>
         <Header title="My Todos List" SearchBar={true} />
         <Routes>
-
-        <Route path="/" element={[<AddTodo addTodo={addTodo}  key={1} />,
-                  <Todos todos={todos} key={2} onDelete={onDelete} />]} />
+          <Route
+            path="/"
+            element={[
+              <AddTodo addTodo={addTodo} key={1} />,
+              <Todos todos={todos} key={2} onDelete={onDelete} />,
+            ]}
+          />
           {/* <Route exact path="/" render={() => {
               return (
                 <>
@@ -76,8 +80,7 @@ function App() {
               );
             }}
           ></Route> */}
-           <Route path="/about" element={<About />} />
-\
+          <Route path="/about" element={<About />} />\
         </Routes>
         <Footer />
       </BrowserRouter>
