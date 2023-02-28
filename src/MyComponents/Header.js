@@ -13,10 +13,10 @@ export default function Header(props) {
       <div className="collapse navbar-collapse" id="navbarSupportedContent">
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           <li className="nav-item">
-            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+            <Link className="nav-link active" aria-current="page" to="/project/todoReactLive/">Home</Link>
           </li>
           <li className="nav-item">
-            <Link className="nav-link active" aria-current="page" to="/about">About</Link>
+            <Link className="nav-link active" aria-current="page" to="/project/todoReactLive/about">About</Link>
           </li>
           <li className="nav-item">
             <Link className="nav-link" to="#">Link</Link>

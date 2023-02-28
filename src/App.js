@@ -65,7 +65,7 @@ function App() {
         <Header title="My Todos List" SearchBar={true} />
         <Routes>
           <Route
-            path="/"
+            path="/project/todoReactLive/"
             element={[
               <AddTodo addTodo={addTodo} key={1} />,
               <Todos todos={todos} key={2} onDelete={onDelete} />,
@@ -80,7 +80,7 @@ function App() {
               );
             }}
           ></Route> */}
-          <Route path="/about" element={<About />} />\
+          <Route path="/project/todoReactLive/about" element={<About />} />\
         </Routes>
         <Footer />
       </BrowserRouter>
