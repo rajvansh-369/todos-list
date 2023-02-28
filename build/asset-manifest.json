@@ -1,15 +1,15 @@
 {
-  "main.css": "/project/todoReact/build/static/css/main.6762d033.chunk.css",
-  "main.js": "/project/todoReact/build/static/js/main.284033f4.chunk.js",
-  "main.js.map": "/project/todoReact/build/static/js/main.284033f4.chunk.js.map",
-  "static/js/1.3bc8ac50.chunk.js": "/project/todoReact/build/static/js/1.3bc8ac50.chunk.js",
-  "static/js/1.3bc8ac50.chunk.js.map": "/project/todoReact/build/static/js/1.3bc8ac50.chunk.js.map",
-  "static/js/2.32c54b06.chunk.js": "/project/todoReact/build/static/js/2.32c54b06.chunk.js",
-  "static/js/2.32c54b06.chunk.js.map": "/project/todoReact/build/static/js/2.32c54b06.chunk.js.map",
-  "runtime~main.js": "/project/todoReact/build/static/js/runtime~main.a9931246.js",
-  "runtime~main.js.map": "/project/todoReact/build/static/js/runtime~main.a9931246.js.map",
-  "static/css/main.6762d033.chunk.css.map": "/project/todoReact/build/static/css/main.6762d033.chunk.css.map",
-  "index.html": "/project/todoReact/build/index.html",
-  "precache-manifest.dffb4964f5b60885c3d2aec2258b4aed.js": "/project/todoReact/build/precache-manifest.dffb4964f5b60885c3d2aec2258b4aed.js",
-  "service-worker.js": "/project/todoReact/build/service-worker.js"
+  "main.css": "/project/todoReact/static/css/main.6762d033.chunk.css",
+  "main.js": "/project/todoReact/static/js/main.284033f4.chunk.js",
+  "main.js.map": "/project/todoReact/static/js/main.284033f4.chunk.js.map",
+  "static/js/1.3bc8ac50.chunk.js": "/project/todoReact/static/js/1.3bc8ac50.chunk.js",
+  "static/js/1.3bc8ac50.chunk.js.map": "/project/todoReact/static/js/1.3bc8ac50.chunk.js.map",
+  "static/js/2.32c54b06.chunk.js": "/project/todoReact/static/js/2.32c54b06.chunk.js",
+  "static/js/2.32c54b06.chunk.js.map": "/project/todoReact/static/js/2.32c54b06.chunk.js.map",
+  "runtime~main.js": "/project/todoReact/static/js/runtime~main.b57debfa.js",
+  "runtime~main.js.map": "/project/todoReact/static/js/runtime~main.b57debfa.js.map",
+  "static/css/main.6762d033.chunk.css.map": "/project/todoReact/static/css/main.6762d033.chunk.css.map",
+  "index.html": "/project/todoReact/index.html",
+  "precache-manifest.9c5cdd70d7f3034e86b9a69b0e57fa0a.js": "/project/todoReact/precache-manifest.9c5cdd70d7f3034e86b9a69b0e57fa0a.js",
+  "service-worker.js": "/project/todoReact/service-worker.js"
 }

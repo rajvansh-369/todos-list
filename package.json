@@ -1,6 +1,6 @@
 {
   "name": "todos-list",
-  "homepage":"https://uxdesigns.in/project/todoReact/build/",
+  "homepage":"https://uxdesigns.in/project/todoReact",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
