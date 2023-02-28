@@ -1,15 +1,15 @@
 {
-  "main.css": "/project/todoReact/static/css/main.6762d033.chunk.css",
-  "main.js": "/project/todoReact/static/js/main.284033f4.chunk.js",
-  "main.js.map": "/project/todoReact/static/js/main.284033f4.chunk.js.map",
-  "static/js/1.3bc8ac50.chunk.js": "/project/todoReact/static/js/1.3bc8ac50.chunk.js",
-  "static/js/1.3bc8ac50.chunk.js.map": "/project/todoReact/static/js/1.3bc8ac50.chunk.js.map",
-  "static/js/2.32c54b06.chunk.js": "/project/todoReact/static/js/2.32c54b06.chunk.js",
-  "static/js/2.32c54b06.chunk.js.map": "/project/todoReact/static/js/2.32c54b06.chunk.js.map",
-  "runtime~main.js": "/project/todoReact/static/js/runtime~main.b57debfa.js",
-  "runtime~main.js.map": "/project/todoReact/static/js/runtime~main.b57debfa.js.map",
-  "static/css/main.6762d033.chunk.css.map": "/project/todoReact/static/css/main.6762d033.chunk.css.map",
-  "index.html": "/project/todoReact/index.html",
-  "precache-manifest.9c5cdd70d7f3034e86b9a69b0e57fa0a.js": "/project/todoReact/precache-manifest.9c5cdd70d7f3034e86b9a69b0e57fa0a.js",
-  "service-worker.js": "/project/todoReact/service-worker.js"
+  "main.css": "/project/todoReactLive/static/css/main.6762d033.chunk.css",
+  "main.js": "/project/todoReactLive/static/js/main.284033f4.chunk.js",
+  "main.js.map": "/project/todoReactLive/static/js/main.284033f4.chunk.js.map",
+  "static/js/1.3bc8ac50.chunk.js": "/project/todoReactLive/static/js/1.3bc8ac50.chunk.js",
+  "static/js/1.3bc8ac50.chunk.js.map": "/project/todoReactLive/static/js/1.3bc8ac50.chunk.js.map",
+  "static/js/2.32c54b06.chunk.js": "/project/todoReactLive/static/js/2.32c54b06.chunk.js",
+  "static/js/2.32c54b06.chunk.js.map": "/project/todoReactLive/static/js/2.32c54b06.chunk.js.map",
+  "runtime~main.js": "/project/todoReactLive/static/js/runtime~main.7fccca89.js",
+  "runtime~main.js.map": "/project/todoReactLive/static/js/runtime~main.7fccca89.js.map",
+  "static/css/main.6762d033.chunk.css.map": "/project/todoReactLive/static/css/main.6762d033.chunk.css.map",
+  "index.html": "/project/todoReactLive/index.html",
+  "precache-manifest.8a2d32afb9e7afacc53bda3669a07160.js": "/project/todoReactLive/precache-manifest.8a2d32afb9e7afacc53bda3669a07160.js",
+  "service-worker.js": "/project/todoReactLive/service-worker.js"
 }
